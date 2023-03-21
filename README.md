@@ -4,6 +4,7 @@
 - 📚 I’m studying programming for full stack javascript development
 
 ##
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauVii13&show_icons=true&theme=github_dark&hide_border=true) &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauVii13&layout=compact&langs_count=5&theme=github_dark&hide_border=true)](https://github.com/LauVii13/github-readme-stats)
 
 <div style="display: inline_block"><br>
@@ -21,6 +22,8 @@
   <img align="center" alt="Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> 
   <img align="center" alt="Java" height="95" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
+
+-->
 
 ##
 <div>
